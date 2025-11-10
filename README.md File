@@ -1,0 +1,33 @@
+# Universal Number Converter
+
+A comprehensive web application for converting numbers between different numeral systems including Decimal, Binary, Octal, Hexadecimal, and Roman numerals.
+
+## 🌟 Features
+
+- **Multi-system Conversion**: Convert between all major number systems
+- **Real-time Validation**: Input validation with helpful error messages
+- **Copy to Clipboard**: Click any result to copy it to clipboard
+- **Responsive Design**: Works perfectly on desktop, tablet, and mobile
+- **Modern UI**: Beautiful gradient design with smooth animations
+- **No Dependencies**: Pure HTML, CSS, and JavaScript
+
+## 🔢 Supported Number Systems
+
+1. **Decimal (Base 10)**: Standard number system (0-9)
+2. **Binary (Base 2)**: Computer system foundation (0,1)
+3. **Octal (Base 8)**: Computing applications (0-7)
+4. **Hexadecimal (Base 16)**: Programming and web (0-9, A-F)
+5. **Roman Numerals**: Ancient numeral system (I, V, X, L, C, D, M)
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Local server (for development) or open directly in browser
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/number-converter.git
+   cd number-converter
